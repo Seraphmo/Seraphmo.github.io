@@ -1,0 +1,37 @@
+html {
+    background-color:pink;
+    color:#750249;    
+    font-family: 'comic sans ms', 'comic sans', sans-serif;
+     font-size: 20px;
+    /* put all properties in html that you want all tags to have*/
+    
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+div {
+    width: 550px;
+}
+h1 {
+   text-transform: uppercase;
+   font-size: 40px;
+}
+
+
+
+/* styling the anchor tags */
+a:link {
+    color:#750249;
+}
+a:visited {
+    color: #750249;
+}
+a:active {
+    color: rgb(255, 65, 198);
+}
+a:hover {
+     color: blueviolet;
+}

@@ -1,0 +1,43 @@
+html {  
+    color:#001dd7; 
+    font-family: 'franklin gothic medium', 'arial', sans-serif;
+     font-size: 80px;
+    /* put all properties in html that you want all tags to have*/
+    
+}
+body {
+    /* Sets your specific GIF as the background */
+    background-image: url('IMG_0565.gif');
+
+    /* Scales the GIF to perfectly fill the entire screen */
+    background-size: cover;
+
+    /* Centers the animation on the page */
+    background-position: center center;
+
+    /* Stops the GIF from repeating if the page stretches */
+    background-repeat: no-repeat;
+
+    /* Ensures the background spans the full height of the browser window */
+    min-height: 100vh;
+    margin: 0;
+
+    /* Optional: A dark fallback background color while your GIF loads */
+    background-color: #121212; 
+}
+p{
+        font-family: 'franklin gothic medium', 'arial', sans-serif;
+     font-size: 15px;
+}
+a:link {
+    color:#001dd7;
+}
+a:visited {
+    color:#001dd7;
+}
+a:active {
+       color:#001dd7;
+}
+a:hover {
+      color:#00d7b0;
+}
