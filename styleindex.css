@@ -30,14 +30,15 @@ p{
      font-size: 15px;
 }
 a:link {
-    color:#001dd7;
+    color:#34c300;
 }
 a:visited {
-    color:#001dd7;
+    color:#34c300;
 }
 a:active {
-       color:#001dd7;
+       color:#34c300;
 }
 a:hover {
-      color:#00d7b0;
+        color:#001dd7;
+;
 }
